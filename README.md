@@ -170,6 +170,6 @@ streamlit run app.py
 
 ## 👨‍💻 Developed By
 
-**Asrar Hasan**
+**Adarsh Gupta**
 
 AI-Based Student Support Chatbot using RAG and Google Gemini
